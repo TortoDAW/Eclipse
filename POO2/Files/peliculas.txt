@@ -1,0 +1,2 @@
+Hotel Transilvania=100=Mostruos chidos=Fantasia
+ola=1=null=se

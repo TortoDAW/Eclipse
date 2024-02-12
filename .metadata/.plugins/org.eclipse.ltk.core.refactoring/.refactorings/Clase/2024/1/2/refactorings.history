@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Deberes&apos; to &apos;Unidad4&apos;&#x0D;&#x0A;- Original project: &apos;Clase&apos;&#x0D;&#x0A;- Original element: &apos;Clase/src/Deberes&apos;&#x0D;&#x0A;- Renamed element: &apos;Clase/src/Unidad4&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Deberes&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Deberes" name="Unidad4" qualified="false" references="true" stamp="1704959955819" textual="false" version="1.0"/>
+</session>
