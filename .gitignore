@@ -1,8 +1,8 @@
 # Ignorar archivos de configuración de Eclipse
-.metadata/
-.classpath
-.project
-.settings/
+*.metadata/
+*.classpath
+*.project
+*.settings/
 
 # Ignorar archivos compilados y directorios binarios
 bin/
