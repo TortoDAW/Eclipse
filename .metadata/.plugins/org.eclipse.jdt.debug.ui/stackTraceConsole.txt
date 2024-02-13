@@ -1,8 +1,0 @@
-java.lang.AssertionError: expected:<3> but was:<0>
-	at org.junit.Assert.fail(Assert.java:89)
-	at org.junit.Assert.failNotEquals(Assert.java:835)
-	at org.junit.Assert.assertEquals(Assert.java:647)
-	at org.junit.Assert.assertEquals(Assert.java:633)
-	at UtilsTest.testBuscarInt(UtilsTest.java:32)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-
